@@ -28,5 +28,5 @@ Chatgpt uni-app，支持app和小程序
 
 
 
-如有问题加入微信群
-![图片](https://user-images.githubusercontent.com/30728708/225524081-46b6e71b-f098-4650-b219-f36d1ccce84e.png)
+如有问题加入微信群，也可加我微信15120086569
+![图片](https://user-images.githubusercontent.com/30728708/228733167-9508f197-9697-40ac-8a6f-ee0c492251a3.png)
